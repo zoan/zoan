@@ -1,5 +1,12 @@
 ### w e l c o m e   t o   m y   g i t h u b
 
+- 🔭 I’m currently working on my online store
+- 🌱 I’m currently learning: Python and Django
+- 👯 I’m looking to collaborate on: cool projects
+- 🤔 I’m looking for help with: finding a new role
+- 💬 Ask me about: 
+- ⚡ Fun fact: the one piece is real
+
 <!--
 **zoan/zoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
